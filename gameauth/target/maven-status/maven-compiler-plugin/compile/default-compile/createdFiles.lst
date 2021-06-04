@@ -1,0 +1,11 @@
+com/dropwizard/gameauth/GameUserDB.class
+com/dropwizard/gameauth/HealthCheckController.class
+com/dropwizard/gameauth/GameUserRESTController.class
+com/dropwizard/gameauth/RESTClientController.class
+com/dropwizard/gameauth/GameUserInfo.class
+com/dropwizard/gameauth/GameAuthApplication.class
+com/dropwizard/gameauth/GameAuthenticator.class
+com/dropwizard/gameauth/GameAuthConfiguration.class
+com/dropwizard/gameauth/GameAuthorizer.class
+com/dropwizard/gameauth/GameUser.class
+com/dropwizard/gameauth/AppHealthCheck.class

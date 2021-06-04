@@ -1,0 +1,11 @@
+/home/jacob/CS230/gameauth/src/main/java/com/dropwizard/gameauth/GameUserRESTController.java
+/home/jacob/CS230/gameauth/src/main/java/com/dropwizard/gameauth/HealthCheckController.java
+/home/jacob/CS230/gameauth/src/main/java/com/dropwizard/gameauth/GameAuthConfiguration.java
+/home/jacob/CS230/gameauth/src/main/java/com/dropwizard/gameauth/GameUser.java
+/home/jacob/CS230/gameauth/src/main/java/com/dropwizard/gameauth/RESTClientController.java
+/home/jacob/CS230/gameauth/src/main/java/com/dropwizard/gameauth/GameAuthApplication.java
+/home/jacob/CS230/gameauth/src/main/java/com/dropwizard/gameauth/GameUserInfo.java
+/home/jacob/CS230/gameauth/src/main/java/com/dropwizard/gameauth/GameAuthenticator.java
+/home/jacob/CS230/gameauth/src/main/java/com/dropwizard/gameauth/AppHealthCheck.java
+/home/jacob/CS230/gameauth/src/main/java/com/dropwizard/gameauth/GameAuthorizer.java
+/home/jacob/CS230/gameauth/src/main/java/com/dropwizard/gameauth/GameUserDB.java
